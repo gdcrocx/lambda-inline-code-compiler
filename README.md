@@ -1,3 +1,7 @@
+[![vsm-version](https://img.shields.io/visual-studio-marketplace/v/gdcrocx.lambda-inline-code-compiler?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=gdcrocx.lambda-inline-code-compiler)
+[![Build Status](https://travis-ci.org/gdcrocx/lambda-inline-code-compiler.svg?branch=master)](https://travis-ci.org/gdcrocx/lambda-inline-code-compiler)
+[![Coverage Status](https://coveralls.io/repos/github/gdcrocx/lambda-inline-code-compiler/badge.svg?branch=master)](https://coveralls.io/github/gdcrocx/lambda-inline-code-compiler?branch=master)
+
 # Lambda Inline Code Compiler
 
 This is an extension to compile Python scripts into **Inline Code** required for **AWS::Lambda::Function** CloudFormation template. It compiles a `python3.8` boilerplate CloudFormation resource for AWS::Lambda::Function.
